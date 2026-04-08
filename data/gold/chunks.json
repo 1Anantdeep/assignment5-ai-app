@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Presentation1- Storyboard Anantdeep kaur 100966317.pdf-0",
+    "source": "Presentation1- Storyboard Anantdeep kaur 100966317.pdf",
+    "text": "Background / Context Durham currently has ~3,900 international students, making up a key portion of tuition revenue and campus diversity. Challenge / Opportunity Gap Stricter federal caps and visa requirements reduced new study permits by 48% in 2024, creating a gap in enrollment 2024 Proposal / Action A strategic recruitment campaign can attract more international students and fill the enrollment gap Opportunity / Impact Investing in international recruitment secures revenue, diversity, and Durham’s global reputation. Story Board"
+  },
+  {
+    "id": "Workshop 2- Anantdeep kaur 100966317.pdf-0",
+    "source": "Workshop 2- Anantdeep kaur 100966317.pdf",
+    "text": "Workshop 2: AIDI 1001- Data Visualization and Storytelling Fall 2025 Student Name- Anantdeep kaur 100966317 Creating Meaningful Charts with Datawrapper. 1. 2. 3. 4."
+  },
+  {
+    "id": "Workshop 3.pdf-0",
+    "source": "Workshop 3.pdf",
+    "text": "Workshop 3 AIDI 1001- Data Visualization and Storytelling Fall 2025 Student Name- Anantdeep kaur 100966317 Analyzing Gender Dynamics in London’s Bus Safety Data with Tableau Lab Tasks: 1. Connecting to the TfL Bus Safety Data Q1: How many records are present? 1. 23,158 records Q2: Identify and list the different data types and data roles (dimensions and measures) present in the table. Field Name Type Dimension or Measure? Victim’s Sex String Dimension Borough String Dimension Incident Event Type String Dimension Incident Date Date/Time Dimension Number of Records Count generated Measure 2. Creating Your First Visualization and Saving the Workbook Q3: Which gender has the highest number of victims in bus safety incidents? - Females (11847) Q4: What does the gender distribution reveal about "
+  },
+  {
+    "id": "Workshop 3.pdf-1",
+    "source": "Workshop 3.pdf",
+    "text": "the demographics of bus safety incidents in London? - According to the data, female victims are more likely than male victims to be involved in bus safety accidents. - 3. Developing Gender-Focused Visualizations (25 points) Bar Chart 1: Incidents by Gender and Borough Questions to Answer: Q5: Which borough has the highest number of bus safety incidents for all genders? - Westminster Q6: Is one gender disproportionately affected by bus safety incidents? - Yes — in almost every borough, females outnumber males as victims. Example: In Barnet, 453 females vs. 328 males. A. Bar Chart 2: Incident Types by Gender Questions to Answer:  Q7: What are the top three types of bus safety incidents for all genders? - Slip trip fall - Onboard Injuries - Personal Injuries Q8: How do incident types vary be"
+  },
+  {
+    "id": "Workshop 3.pdf-2",
+    "source": "Workshop 3.pdf",
+    "text": "tween genders, and what implications does this have for safety strategies? - Females are more often victims of onboard injuries and slip trip fall - Males are slightly more common in collision-related incidents. - Road safety for male victims should be addressed, and bus interiors stability should be improved for female victims. C. Line Chart: Temporal Trends of Incidents by Gender Questions to Answer: Q9: Are there specific year where incidents peaked for a particular genders? - Female victims peaked in 2017 with 3,598 incidents. - Male victims peaked in 2017 as well, with 2,363 incidents. - Unknown gender victims peaked in 2015, with 1,839 incidents. Q10: What might explain the steady decline in incidents involving victims with an \"unknown\" gender? - - The decline in unknown gender incid"
+  },
+  {
+    "id": "Workshop 3.pdf-3",
+    "source": "Workshop 3.pdf",
+    "text": "ents happened because gender details were recorded more carefully each year."
+  }
+]
