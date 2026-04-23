@@ -1,33 +1,9 @@
-# Smart PDF Helper
+## Assignment 6 Evaluation and Improvement
 
-Smart PDF Helper is a small end-to-end AI-enabled application built for Assignment 5.
+For Assignment 6, I evaluated the Smart PDF Helper system using 5 representative cases and 2 failure cases.
 
-## What it does
-This app answers user questions based on a fixed set of PDFs.
+The system performed well for clear PDF-based questions, summaries, and source-based answers. It was weaker when the user asked vague questions or questions outside the PDF content.
 
-## Supported tasks
-- summarize the PDFs
-- answer questions from the PDFs
-- show source file names
+I compared the final retrieval-based system with a simple prompt-only baseline. The retrieval-based system was more accurate because it used relevant PDF chunks before generating an answer.
 
-## Out of scope
-- no login
-- no user uploads
-- no database
-- no multi-user support
-
-## Architecture
-- Bronze: raw PDFs in `data/bronze`
-- Gold: processed chunks in `data/gold/chunks.json`
-- ETL: `scripts/etl.ts`
-- Retrieval: `src/lib/retrieve.ts`
-- LLM: Gemini API in `src/lib/gemini.ts`
-- API route: `src/app/api/ask/route.ts`
-- UI: Next.js frontend
-- Deployment: Vercel
-
-## How to run locally
-```bash
-npm install
-npm run etl
-npm run dev
+Based on this evaluation, I improved the prompt so the model answers only from the provided PDF context and avoids guessing when information is missing.
